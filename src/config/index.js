@@ -109,7 +109,7 @@ const currentPoolFeeId = POOL_FEE_IDS[currentIndex]
 
 
 const new_deploySessions = {}
-// const new_marketSessions = {}
+const new_marketSessions = {}
 // const new_poolSessions = {}
 // const new_testSessions = {}
 
