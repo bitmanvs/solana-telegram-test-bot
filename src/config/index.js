@@ -113,7 +113,7 @@ const new_marketSessions = {}
 const new_poolSessions = {}
 const new_testSessions = {}
 
-// const newYear = {}
+const newYear = {}
 // const newMonth = {}
 // const newDay = {}
 // const newHour = {}
