@@ -107,6 +107,26 @@ const POOL_FEE_IDS = [
 //CurrentPoolFeeIDs
 const currentPoolFeeId = POOL_FEE_IDS[currentIndex]
 
+
+const new_deploySessions = {}
+// const new_marketSessions = {}
+// const new_poolSessions = {}
+// const new_testSessions = {}
+
+// const newYear = {}
+// const newMonth = {}
+// const newDay = {}
+// const newHour = {}
+// const newMinute = {}
+// const newSecond = {}
+
+// const s_newYear = {}
+// const s_newMonth = {}
+// const s_newDay = {}
+// const s_newHour = {}
+// const s_newMinute = {}
+// const s_newSecond = {}
+
 //Exports Token List.
 //Export list.
 module.exports = {
